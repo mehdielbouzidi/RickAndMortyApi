@@ -4,5 +4,4 @@ I tried to make the most out of it with the limited time due to an illness. For 
 
 This case however inspired me to continue improving and building something like: https://pokedex.org/
 
-Cheers,
 
