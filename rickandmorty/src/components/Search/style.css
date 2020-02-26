@@ -1,0 +1,29 @@
+.header {
+   height: 800px;
+   background: #93C0A4;
+   align-self: center;
+}
+
+.title {
+   font-weight: 900;
+   font-size: 2em;
+}
+
+.input-group {
+   width: 600px;
+   max-width: 100%;
+   padding: 10px;
+   border-radius: 50px;
+   outline: none;
+   border: none;
+}
+
+.plumbus {
+   width: 250px;
+   transition: 0.2s;
+}
+
+.plumbus:hover {
+   transform: scale(1.1);
+   cursor: pointer;
+}
